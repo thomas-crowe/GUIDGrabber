@@ -1,0 +1,16 @@
+[cloudforms-credentials]
+user: cloudforms-user
+password: cloudforms-password
+url: https://cloudforms.url
+group: cloudforms-group
+
+[ravello-credentials]
+user: ravello-user
+password: ravello-password
+domain: ravello-domain
+
+[manager-admins]
+users: comma,separated,admins
+
+[spp]
+password: spp-password
